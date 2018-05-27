@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">HugoNotes</string>
+
+    <!-- home -->
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Knowledge</string>
+
+    <!-- login -->
+    <string name="logout">Logout</string>
+
+    <!-- navigation -->
+    <string name="my_like">My favorite</string>
+    <string name="my_about">About us</string>
 </resources>
